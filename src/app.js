@@ -52,7 +52,7 @@ app.use(cookieParser());
 //app.use(globalLimiter);
 
 app.use(cors({
-    origin: ["http://localhost:5173", "https://smokeygrill.netlify.app"], 
+    origin: ["http://localhost:5173", "https://slategray-butterfly-754330.hostingersite.com"], 
     credentials: true, // Permitir cookies
 }));
 
